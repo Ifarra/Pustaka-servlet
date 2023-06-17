@@ -6,6 +6,7 @@
 
 *sebelum run server, pastikan database berjalan dengan lancar dan tidak ada masalah*
 
+
 Cara implementasi servlet menggunkan server tomcat di eclipse
 //==//==//==//==//==//==//==//==//==//==//==//==//==//==//==//==//
 
@@ -29,6 +30,8 @@ Instalasi Step-by-step (downlaod zip)
 5. Pilih menu Add external JAR
 6. Pergi ke folder tempat kalian extract tadi, pilih /pustakadizznutfile/library/
 7. Tambahkan Java connector dan JSTL JAR ke dalam build path project
+8. Pergi ke file DB, Java Resources>src/main/java>DB>DBConnection.java
+9. Ganti variable url denagan sekema kalian, ganti user dengan username database kalian, ganti pass dengan password database kalian, ganti db dengan nama databse(skema) kalian
 8. Run server Tomcat
 9. Pada Project explorer eclipse, cari pustakadizznut/src/main/webapp/login.jsp
 10. Klik kanan pada login.jsp, Run as>server
