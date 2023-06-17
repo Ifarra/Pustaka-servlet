@@ -1,0 +1,91 @@
+15-Jun-2023 00:32:34.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.76
+15-Jun-2023 00:32:34.303 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 5 2023 07:17:04 UTC
+15-Jun-2023 00:32:34.303 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.76.0
+15-Jun-2023 00:32:34.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Jun-2023 00:32:34.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Jun-2023 00:32:34.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Jun-2023 00:32:34.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Amazon Corretto\jdk17.0.5_8
+15-Jun-2023 00:32:34.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.5+8-LTS
+15-Jun-2023 00:32:34.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Jun-2023 00:32:34.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76
+15-Jun-2023 00:32:34.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76
+15-Jun-2023 00:32:34.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Jun-2023 00:32:34.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Jun-2023 00:32:34.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Jun-2023 00:32:34.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Jun-2023 00:32:34.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Jun-2023 00:32:34.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\conf\logging.properties
+15-Jun-2023 00:32:34.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Jun-2023 00:32:34.610 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|LAPTOP-L38I3VEQ
+15-Jun-2023 00:32:34.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+15-Jun-2023 00:32:34.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Jun-2023 00:32:34.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+15-Jun-2023 00:32:34.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76
+15-Jun-2023 00:32:34.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76
+15-Jun-2023 00:32:34.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\temp
+15-Jun-2023 00:32:34.754 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Amazon Corretto\jdk17.0.5_8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Amazon Corretto\jdk17.0.5_8\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Users\M FAUZAN ARRAAFI\AppData\Local\Microsoft\WindowsApps;C:\Users\M FAUZAN ARRAAFI\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\M FAUZAN ARRAAFI\.dotnet\tools;C:\Users\M FAUZAN ARRAAFI\AppData\Roaming\npm;.]
+15-Jun-2023 00:32:37.068 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Jun-2023 00:32:37.386 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [5116] milliseconds
+15-Jun-2023 00:32:38.349 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Jun-2023 00:32:38.350 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.76]
+15-Jun-2023 00:32:38.379 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\webapps\docs]
+15-Jun-2023 00:32:44.195 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [975] milliseconds.
+15-Jun-2023 00:32:44.449 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\webapps\docs] has finished in [6,059] ms
+15-Jun-2023 00:32:44.451 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\webapps\examples]
+15-Jun-2023 00:32:52.619 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\webapps\examples] has finished in [8,167] ms
+15-Jun-2023 00:32:52.620 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\webapps\host-manager]
+15-Jun-2023 00:32:54.109 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\webapps\host-manager] has finished in [1,489] ms
+15-Jun-2023 00:32:54.110 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\webapps\manager]
+15-Jun-2023 00:32:54.603 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\webapps\manager] has finished in [492] ms
+15-Jun-2023 00:32:54.604 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\webapps\ROOT]
+15-Jun-2023 00:33:19.327 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\webapps\ROOT] has finished in [24,723] ms
+15-Jun-2023 00:33:19.341 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Jun-2023 00:33:20.667 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [43280] milliseconds
+15-Jun-2023 00:42:59.180 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context []
+15-Jun-2023 00:42:59.576 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\conf\Catalina\localhost\ROOT.xml]
+15-Jun-2023 00:42:59.584 WARNING [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [] in deployment descriptor [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\conf\Catalina\localhost\ROOT.xml] has been ignored
+15-Jun-2023 00:43:05.132 INFO [http-nio-8080-exec-15] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Jun-2023 00:43:05.161 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\M FAUZAN ARRAAFI\Documents\Programming\Java\apache-tomcat-9.0.76\conf\Catalina\localhost\ROOT.xml] has finished in [5,585] ms
+15-Jun-2023 00:43:05.182 INFO [http-nio-8080-exec-15] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]] after start() had already been called. The second call will be ignored.
+15-Jun-2023 00:49:34.487 INFO [http-nio-8080-exec-16] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+15-Jun-2023 00:49:37.802 INFO [http-nio-8080-exec-16] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Jun-2023 00:49:42.941 INFO [http-nio-8080-exec-16] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+15-Jun-2023 00:52:56.013 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+15-Jun-2023 00:52:56.015 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardWrapper.unload Waiting for [1] instance(s) to be deallocated for Servlet [LoginServlet]
+15-Jun-2023 00:52:57.111 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardWrapper.unload Waiting for [1] instance(s) to be deallocated for Servlet [LoginServlet]
+15-Jun-2023 00:52:57.459 WARNING [http-nio-8080-exec-31] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Jun-2023 00:52:57.461 WARNING [http-nio-8080-exec-31] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ROOT] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.5/java.lang.Object.wait(Native Method)
+ java.base@17.0.5/java.lang.Object.wait(Object.java:338)
+ java.base@17.0.5/java.util.TimerThread.mainLoop(Timer.java:537)
+ java.base@17.0.5/java.util.TimerThread.run(Timer.java:516)
+15-Jun-2023 00:53:00.106 INFO [http-nio-8080-exec-31] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Jun-2023 00:53:00.123 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+15-Jun-2023 01:03:41.123 INFO [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+15-Jun-2023 01:03:41.258 WARNING [http-nio-8080-exec-43] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Jun-2023 01:03:41.259 WARNING [http-nio-8080-exec-43] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ROOT] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.5/java.lang.Object.wait(Native Method)
+ java.base@17.0.5/java.lang.Object.wait(Object.java:338)
+ java.base@17.0.5/java.util.TimerThread.mainLoop(Timer.java:537)
+ java.base@17.0.5/java.util.TimerThread.run(Timer.java:516)
+15-Jun-2023 01:03:44.841 INFO [http-nio-8080-exec-43] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Jun-2023 01:03:44.853 INFO [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+15-Jun-2023 01:07:34.296 INFO [http-nio-8080-exec-50] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+15-Jun-2023 01:07:38.999 INFO [http-nio-8080-exec-50] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Jun-2023 01:07:39.046 INFO [http-nio-8080-exec-50] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+15-Jun-2023 01:07:55.140 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+15-Jun-2023 01:07:59.591 INFO [http-nio-8080-exec-38] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Jun-2023 01:07:59.609 INFO [http-nio-8080-exec-38] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+15-Jun-2023 01:13:47.118 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+15-Jun-2023 01:13:47.134 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Jun-2023 01:13:47.259 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Jun-2023 01:13:47.268 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+15-Jun-2023 01:13:47.268 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ROOT] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.5/java.lang.Object.wait(Native Method)
+ java.base@17.0.5/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base@17.0.5/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.5/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.5/java.lang.Thread.run(Thread.java:833)
+15-Jun-2023 01:13:47.358 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Jun-2023 01:13:47.501 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
