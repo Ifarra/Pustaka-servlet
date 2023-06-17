@@ -1,7 +1,9 @@
 # Pustaka-servlet
 
 *sebelum mengikuti, diharapkan sudah downlaod eclipse EE dan sudah tahu cara instal server tomcat ke dalam eclipse*
+
 *di harapkan untuk uninstal server tomcat yang sudah di instal sebelumnya untuk mempermudah import library karena file tomcat sudah di sediakan di repo*
+
 *sebelum run server, pastikan database berjalan dengan lancar dan tidak ada masalah*
 
 Cara implementasi servlet menggunkan server tomcat di eclipse
